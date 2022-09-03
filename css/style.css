@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
+
+.navbar{
+    position: fixed;
+    display: flex;
+    top: 0%;
+    text-align: left;
+}

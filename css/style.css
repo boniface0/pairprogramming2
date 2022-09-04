@@ -1,0 +1,29 @@
+.{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  overflow-x: hidden;
+}
+#navbar{
+  display: inline-block;
+  top: 0px;
+  position: fixed;
+  z-index:1;
+  width: 100%;
+  text-align: right;
+  background-color: blue;
+  padding: 10px;
+}
+#navbar a{
+  align-items: center;
+  text-decoration: none;
+  font-size: 24px;
+  color: white;
+  text-transform: capitalize;
+  font-family: fantasy;
+  padding-right: 10px
+}
+#welcome-section{
+  height: 100vh;
+}
